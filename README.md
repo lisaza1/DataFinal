@@ -55,6 +55,7 @@ How many of Santiago’s glaciers are in the Metropolitan Region? What is the to
 3. Bonus if you sort by largest to smallest to see which region contains the most glaciers. You can sort by selecting the dropdown under “order” in the “row” section and clicking “descending;” under “Sort by” select “count A.” 
 4. Repeat the Step 2, but instead of selecting “count” of “COD_GLA,” select “as a percent of grand total” to see what percentage of the country’s total glaciers are in each region. 
 
+![Screenshot1](DF1.png)
 
 **Results:** As shown, Aysen has the highest rate of glaciers, followed by Magallanes and Los Lagos. This is expected, as they are the regions furthest South. But several regions north, the Santiago Metropolitan Region comes in as the region with the 4th most glaciers in the country. It has 1247 glaciers, that make up 4.77% of Chile’s total number of glaciers. 
 
@@ -66,6 +67,8 @@ How many of each type of glacier are there in Chile? For each, what is the value
 3. Add “value” as “COD_GLA.” Ask it to show the value as a count of “COD_GLA.” This will show you the total number of glaciers per type in Chile. 
 4. Sort them in descending order. 
 5. Repeat the second step, but instead of selecting “count” of “COD_GLA,” select “as a percent of grand total” to see what is the percent breakdown of each type of glacier in Chile. 
+
+![Screenshot1](DF3.png)
 
 **Results:** As depicted above, the most common type of glacier in Chile is the glacieret. Glacierets are the smallest type of glacier and are typically abundant. They’re followed by Mountain glaciers, rock glaciers, valley glaciers, and outlet glaciers. 
 
@@ -79,6 +82,8 @@ Let’s see if the breakdown of types of glaciers in the Santiago Metropolitan R
 5. You should be able to calculate percentages in the pivot table, but my document seems to be glitching so we will try option 2: create a new sheet in your document and copy-paste the values from your pivot table. 
 6. Then, calculate the percent totals by dividing the values in column B by the total number of glaciers in the region. 
 
+![Screenshot1](DF4.png)
+
 **Results:** The breakdown of types of glaciers in the Santiago Metropolitan Region is different than that of the country overall. While rock glaciers make up 13.7% of the nations glaciers, they make up 62.39% of the Santiago Metro Region’s glaciers. 
 
 **Question 4
@@ -90,11 +95,15 @@ How much total ice mass (by volume) is stored in each type of glacier in the San
 Sort in descending order.
 5. Repeat the fourth step but select “as a percent of grand total” to see what is the percent breakdown of total volume by type of glacier for the region. 
 
+![Screenshot1](DF5.png)
+
 **Results:** There are 17.57 cubic kilometers worth of glaciers in the Santiago Metropolitan region. That might not sound like a lot, but See the breakdown in the table above. This shows us that even though there are more rock glaciers in the region, Valley glaciers, which only represent 2.97% of the region’s glaciers by count, actually have the biggest volumic presence. Let’s find out if the estimated water content corresponds to the glaciers’ volumes. 
 
 **Question 5: How much estimated water volume is stored in each type of glacier in the Santiago Metropolitan Region?**
 
 1. Keep working in the same pivot table as for the previous question. Repeat steps 4 and 6 but with the value “EQ_AguaKm3”
+
+![Screenshot1](DF6.png)
 
 **Results:** As you can see, it’s roughly similar. Valley glaciers contain the most water (by estimated accounts). See exact breakdown in the table. 
 
