@@ -2,7 +2,7 @@
 # As Glaciers Melt in Chile’s Central Andes, Environmentalists Race to Protect them from Mines
 ## Laura Isaza
 ### As Glaciers Melt in Chile’s Central Andes, Environmentalists Race to Protect them from Mines
-Laura Isaza
+
 Central Chile is projected to face severe water scarcity in the coming decade. A megadrought that has lasted for over a decade, an unprecedented length of time, threatens to continue depleting the region’s water supply. The region’s 1247 glaciers have provided respite over the course of the drought, but glaciers continue to recede with rising temperatures, diminishing the water flowing through the region’s waterways. Mining, the backbone of Chile’s economy, when combined with climate change, poses a dual threat to the region’s glaciers. The town of El Alfalfal, residents say they are living the impacts of the drought first hand.  Still, they oppose an environmental movement in the region launched in 2019 to protect the region’s glaciers fearing that the urban-led campaign will wash away their way of life. 
 
 In 2019, environmentalists launched “Queremos Parque”, a campaign to transform 142 thousand hectares of land into a national park. The organization views their campaign as a race against Chile’s mining industry for control over the land. The launch aligned with the announcement of the return of the 142 thousand hectares from the military to Bienes Nacionales, the ministry that manages public lands. It had been seized during the US-backed military dictatorship of Augusto Pinochet in 1975. With the land back in public hands, Queremos Parque wants to ensure it stays out of the hands of the mining industry. 
