@@ -107,5 +107,11 @@ Sort in descending order.
 
 **Results:** As you can see, it’s roughly similar. Valley glaciers contain the most water (by estimated accounts). See exact breakdown in the table. 
 
+**To create the map of glaciers in the region**
+* I had to use Mapbox because Datawrapper did not contain maps that were zoomed-in enough. 
+1. Convert the coordinates from the csv to decimal degrees using a batch convert program. 
+2. Upload the csv with the converted coordinates of the glaciers into mapbox
+3. Now, you can format the data conditionally if you like, for instance, using different colors for different conditions. 
+
 
 
