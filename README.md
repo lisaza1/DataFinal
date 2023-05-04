@@ -14,7 +14,9 @@ According to Glaciologist Francisco Ferrando Acuña, former vice president of th
 There are two primary types of glaciers, and mining impacts both. “Uncovered glaciers” are visible swaths of ice, often recognized by their gleaming presence on the tops of mountains and in shaded valleys. Mountain and valley glaciers, as well as glaciers, all make up this category of “uncovered glaciers.” Rock glaciers, on the other hand, are hidden pockets of ice, often undetectable to the naked eye. Rock glaciers make up roughly 62% of the region’s 1247 glaciers, but Ferrando says the largest volume of stored water is held by uncovered glaciers, which are the most susceptible to melt from rising temperatures and mining. 
 
 
-<div><!script type="text/javascript" defer src="https://datawrapper.dwcdn.net/eHFF3/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/eHFF3/full.png" alt="" /></noscript></div>
+
+[![Number of Glaciers v. Volume](eHFF3-comparison-of-number-of-glaciers-by-glacier-type-to-total-glacial-volume-by-glacier-type-in-the-santiago-metropolitan-region-by-glacier-type.png)](https://www.datawrapper.de/_/eHFF3/)
+
 
 
 
@@ -30,6 +32,7 @@ The activity of the mine generates heat, too. Heavy machinery, encampments, and 
 
 
 ![Map of Santiago Metropolitan Region Glaciers](GlacierMap.png)
+
 
 
 Valenzuela Delpiano wants to safeguard water access by declaring the land a protected zone. But she has faced opposition from within the localities of El Alfalfal and Los Maitenes that are within the former military land, and thus are within the boundaries of the imagined protected land. Locals there worry that their animal rearing practices would be threatened by the influx of tourists and restrictions on grazing areas that would come with the reserve. 
